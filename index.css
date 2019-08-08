@@ -1,0 +1,32 @@
+body {
+  padding: 20px;
+  color: #333;
+}
+h3 {
+  margin-top: 0;
+  margin-bottom: 10px;
+}
+p {
+  font-size: 14px;
+  margin-top: 8px;
+  margin-bottom: 8px;
+  line-height: 1.5em;
+  /* margin:  */
+}
+.container {
+  max-width: 1000px;
+}
+.section {
+  border-radius: 5px;
+  border: 2px dashed #aaa;
+  padding: 10px;
+}
+.describe {
+  /* text-decoration: underline; */
+  font-weight: 800;
+  font-size: 14px;
+  text-indent: 2em;
+}
+.detail {
+  text-indent: 2em;
+}
