@@ -30,3 +30,15 @@ p {
 .detail {
   text-indent: 2em;
 }
+.rotate {
+  display: inline-block;
+  animation: rotate-animation 1s ease infinite;
+}
+.delay {
+  animation-delay: 0.5s;
+}
+@keyframes rotate-animation {
+  0% { transform: translateX(0px); }
+  50% { transform: translateX(2px); }
+  100% { transform: translateX(0px); }
+}
