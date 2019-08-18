@@ -20,6 +20,7 @@ p {
   border-radius: 5px;
   border: 2px dashed #aaa;
   padding: 10px;
+  margin-bottom: 20px;
 }
 .describe {
   /* text-decoration: underline; */
